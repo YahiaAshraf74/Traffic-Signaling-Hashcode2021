@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/C++/Problem solving/main.cpp
+iostream
+-
+algorithm
+-
+cmath
+-
+vector
+-
+set
+-
+map
+-
+unordered_set
+-
+unordered_map
+-
+queue
+-
+stack
+-
+complex
+-
+string
+-
+bitset
+-
+stdio.h
+-
+string.h
+-
+fstream
+-
+iomanip
+-
+numeric
+-
+assert.h
+-
+stdio.h
+-
+
